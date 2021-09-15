@@ -11,10 +11,10 @@
 <h3 align="center"><b>link</b></h3></br>
 <div>
   <p align="center">
-    <a href="https://github.com/Bam-j">
+    <a href="https://github.com/Bam-j" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     </a>&nbsp
-    <a href="https://bamtory29.tistory.com/">
+    <a href="https://bamtory29.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
     </a>&nbsp
   </p>
