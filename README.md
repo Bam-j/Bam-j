@@ -1,4 +1,4 @@
-<h3 align="center"><b>my_stack</b></h3></br>
+<h3 align="center"><b>:computer:&nbspmy_stack&nbsp:computer:</b></h3></br>
 <div>
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-E7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
@@ -8,7 +8,7 @@
   </p>
 </div>
 
-<h3 align="center"><b>link</b></h3></br>
+<h3 align="center"><b>:globe_with_meridians:&nbsplink&nbsp:globe_with_meridians:</b></h3></br>
 <div>
   <p align="center">
     <a href="https://github.com/Bam-j" target="_blank">
@@ -20,7 +20,7 @@
   </p>
 </div>
 
-<h4 align="center">email</h4>
+<h3 align="center">:e-mail:&nbspemail&nbsp:e-mail:</h4>
 <div>
   <p align="center">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
