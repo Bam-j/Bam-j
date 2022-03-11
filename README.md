@@ -15,9 +15,9 @@
     <a href="https://github.com/Bam-j" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     </a>&nbsp
-    <a href="https://bamtory29.tistory.com/" target="_blank">
+    <!-- <a href="https://bamtory29.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
-    </a>&nbsp
+    </a>&nbsp-->
     <a href="https://velog.io/@bami" target="_blank">
       <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
     </a>&nbsp
