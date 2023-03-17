@@ -16,4 +16,4 @@ skills = [HTML, CSS, Javascript, React.js];
 
 ## blog
 - 지식들을 블로그에 정리하고 있습니다. 이 글들이 단순한 정리가 아닌 누군가에게 도움이 되었으면 하는 마음을 담아 글을 작성합니다.✅
-- ![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)
+- <a href='https://velog.io/@bami'>![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)</a>
