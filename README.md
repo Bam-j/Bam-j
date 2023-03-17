@@ -1,70 +1,19 @@
-<h3 align="center"><b>:computer:&nbspmy_stack&nbsp:computer:</b></h3></br>
+# Lee JooHyun
+- 프론트엔드 개발자를 꿈꾸고 있습니다.🔰
+- Clean Code에 관심을 갖고, 변수/함수 이름과 로직에 대해 고민하는 과정을 좋아합니다.✅
+- 같이 일하고 싶은, 같이 지식을 나누고 싶은 개발자가 되고 싶습니다.💭
+## skills 
+```js
+skills = [HTML, CSS, Javascript, React.js];
+```
+조금 더 자세한 스킬 목록들은 [블로그 소개란](https://velog.io/@bami/about)에서 확인하실 수 있습니다.
+
+## email
 <div>
-  <p align="center">
-    <!--<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp-->
-    <img src="https://img.shields.io/badge/JavaScript-E7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  </p>
+<a href="mailto:juhyun19981129@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=juhyun19981129@gmail.com"></a> &nbspjuhyun19981129@gmail.com<br>
+<a href="mailto:juhyun1503@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=juhyun1503@naver.com"/></a> &nbspjuhyun1503@naver.com
 </div>
 
-<h3 align="center"><b>:globe_with_meridians:&nbsplink&nbsp:globe_with_meridians:</b></h3></br>
-<div>
-  <p align="center">
-    <a href="https://github.com/Bam-j" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    </a>&nbsp
-    <!-- <a href="https://bamtory29.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat-square&logo=Kakao&logoColor=white"/>
-    </a>&nbsp-->
-    <a href="https://velog.io/@bami" target="_blank">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-    </a>&nbsp
-  </p>
-</div>
-
-<h3 align="center">:e-mail:&nbspemail&nbsp:e-mail:</h4>
-<div>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-    <b>&nbsp&nbspjuhyun19981129@gmail.com</b></br>
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
-    <b>&nbsp&nbspjuhyun1503@naver.com</b>
-  </p>
-</div>
-
-<h3 align="center">
-  👨‍💻&nbsp
-  <a href="https://velog.io/@bami/about" target="_blank">about me more...?</a>
-  &nbsp👨‍💻
-  </h4>
-<!--
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bami)](https://github.com/eungyeole/velog-readme-stats)
--->
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bam-j&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-<div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBam-j&count_bg=%23F3D52B&title_bg=%23A4A4A4&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=true"/></a>
-</div>
--->
-<!--
-**Bam-j/Bam-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="https://img.shields.io/badge/이름-색?style=flat-square&logo=로고네임&logoColor=white"/></a>&nbsp
--->
+## blog
+- 지식들을 블로그에 정리하고 있습니다. 이 글들이 단순한 정리가 아닌 누군가에게 도움이 되었으면 하는 마음을 담아 글을 작성합니다.✅
+- ![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)
