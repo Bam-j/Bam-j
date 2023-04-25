@@ -4,7 +4,7 @@
 - 같이 일하고 싶은, 같이 지식을 나누고 싶은 개발자가 되고 싶습니다.💭
 ## skills 
 ```js
-skills = [HTML, CSS, Javascript, React.js];
+main skills = [HTML, CSS, Javascript, React.js];
 ```
 조금 더 자세한 스킬 목록들은 [블로그 소개란](https://velog.io/@bami/about)에서 확인하실 수 있습니다.
 
@@ -15,5 +15,6 @@ skills = [HTML, CSS, Javascript, React.js];
 </div>
 
 ## blog
-- 지식들을 블로그에 정리하고 있습니다. 이 글들이 단순한 정리가 아닌 누군가에게 도움이 되었으면 하는 마음을 담아 글을 작성합니다.✅
+- 지식들을 블로그에 정리하고 있습니다.✏
+- 포스트들이 나에만 도움이되는 정리가 아닌 모두에게 도움이 되었으면 하는 마음을 담아 글을 작성합니다.✅
 - <a href='https://velog.io/@bami'>![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)</a>
