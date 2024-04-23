@@ -3,7 +3,7 @@
 
 ## skills 
 ```java
-String[] skills = { "Java" };
+String[] skills = { "Java", "Spring", "SpringBoot" };
 ```
 
 ## email
