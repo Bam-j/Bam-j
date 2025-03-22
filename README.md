@@ -25,4 +25,7 @@
 <a href='https://velog.io/@bami'>![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bam-j&layout=compact)
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbam1129)](https://solved.ac/lbam1129)
