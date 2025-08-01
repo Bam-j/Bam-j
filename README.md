@@ -1,4 +1,4 @@
-# Lee JooHyun (Bam)
+# Lee JooHyun
 - Backend Programmer 💻
 - 블로그를 통해 학습한 개발 지식을 꾸준히 기록하고 공유하는 것을 좋아합니다. 📜✏️
 - 풀스택 웹 프로그래머를 지향합니다. 👨‍💻
