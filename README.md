@@ -25,6 +25,11 @@
 
 ## blog
 <a href='https://velog.io/@bami'>![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)</a>
+- 웹 개발과 관련된 개발 지식 위주로 정리하고 있습니다.
+- 컴퓨터 공학의 전공 지식들도 다룹니다.
+
+
+<hr>
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j)](https://github.com/anuraghazra/github-readme-stats)-->
 
