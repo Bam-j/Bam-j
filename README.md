@@ -26,7 +26,8 @@
 
 ## blog
 <a href='https://velog.io/@bami'>![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)</a>
-- 웹 개발 및 컴퓨터공학 지식들을 주로 다루고 있습니다.
+- 웹 개발과 관련된 기술들을 주로 다루고 있습니다.
+- 전공 과정에서 학습했던 전공 지식들 또한 다루고 있습니다.
 
 <hr>
 
