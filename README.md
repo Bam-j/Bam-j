@@ -20,8 +20,8 @@
 
 ## email
 <div>
-<a href="mailto:juhyun19981129@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=juhyun19981129@gmail.com"></a> &nbspjuhyun19981129@gmail.com<br>
-<a href="mailto:juhyun1503@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=juhyun1503@naver.com"/></a> &nbspjuhyun1503@naver.com
+<a href="mailto:juhyun19981129@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=juhyun19981129@gmail.com"></a> &nbsp&nbspjuhyun19981129@gmail.com<br>
+<a href="mailto:juhyun1503@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=juhyun1503@naver.com"/></a> &nbsp&nbspjuhyun1503@naver.com
 </div>
 
 ## blog
