@@ -29,8 +29,6 @@
 - 웹 개발과 관련된 기술들을 주로 다루고 있습니다.
 - 전공 과정에서 학습했던 전공 지식들 또한 다루고 있습니다.
 
-<hr>
-
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bam-j&layout=compact)-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbam1129)](https://solved.ac/lbam1129)
