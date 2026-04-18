@@ -31,4 +31,4 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bam-j&layout=compact)-->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbam1129)](https://solved.ac/lbam1129)
+<!-- 백준 종료로 인해... [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbam1129)](https://solved.ac/lbam1129)-->
