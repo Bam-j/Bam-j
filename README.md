@@ -1,3 +1,9 @@
+Welcome.
+
+
+<!--
+기존 버전
+
 # Lee JooHyun
 - Backend Programmer/Web Programmer 💻
 - 학습한 개발 지식을 꾸준히 기록하고 공유하는 것을 좋아합니다. ✏️
@@ -32,3 +38,5 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bam-j&layout=compact)-->
 <!-- 백준 종료로 인해... [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbam1129)](https://solved.ac/lbam1129)-->
+
+-->
