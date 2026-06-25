@@ -23,7 +23,7 @@ Welcome.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white) -->
-
+<!--
 ## email
 <div>
 <a href="mailto:juhyun19981129@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=juhyun19981129@gmail.com"></a> &nbsp&nbspjuhyun19981129@gmail.com<br>
@@ -34,9 +34,7 @@ Welcome.
 <a href='https://velog.io/@bami'>![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@bami)</a>
 - 웹 개발과 관련된 기술들을 주로 포스팅 합니다.
 - 컴퓨터공학 학사 과정 일부 내용도 작성하고 있습니다.
-
+-->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bam-j)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bam-j&layout=compact)-->
 <!-- 백준 종료로 인해... [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbam1129)](https://solved.ac/lbam1129)-->
-
--->
